@@ -40,12 +40,8 @@ The bot is made for being angry and unpleasant with every users except for his c
 - TTS Module: Generate audio files by Text (Can choose the voice)
 ## ⚙️Installation
 
-Install Operation with npm
-
 ```bash
-  git clone https://github.com/l950x/QPanel-discordbot-preview.git
-  npm i
-  node index.js
+The access to the bot is now restricted, and it is no longer possible to install it.
 ```
     
 ## 📃License
