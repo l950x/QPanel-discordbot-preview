@@ -38,6 +38,35 @@ The bot is made for being angry and unpleasant with every users except for his c
 - Mail Services : Send multiple mail to the specific email (IMAP)
 - Media Services: Get followers, views, likes... (order list, order info)
 - TTS Module: Generate audio files by Text (Can choose the voice)
+
+## 📑Demo
+
+- AI Reply
+<img src="imgs/reply.gif"/>
+<hr/>
+
+- Media
+<img src="imgs/media.gif"/>
+<hr/>
+
+- Imagine
+<img src="imgs/imagine1.gif"/>
+<br/>
+<img src="imgs/imagine2.gif"/>
+<hr/>
+
+- Ask
+<img src="imgs/ask.gif"/>
+<hr/>
+
+- Cash
+<img src="imgs/cash.gif"/>
+<hr/>
+
+- TTS
+<img src="imgs/voice.gif"/>
+<hr/>
+  
 ## ⚙️Installation
 
 ```bash
